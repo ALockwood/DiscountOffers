@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiscountOffers": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\InputSample\\InputSample.txt"
+    }
+  }
+}
